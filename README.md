@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="https://www.loom.com/share/c20379084b3046a683d7da27764bb635" title="Video Walkthrough" width='' alt="Video Walkthrough" />
+Walkthrough video: [Watch on Loom](https://www.loom.com/share/c20379084b3046a683d7da27764bb635)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap.
